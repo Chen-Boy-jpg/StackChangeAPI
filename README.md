@@ -1,15 +1,15 @@
-#使用說明:
+# 使用說明:
 按下導覽列上的trending 可以篩選出想看的內容
 按下搜尋可以新增trending 並顯示結果
 questions 點擊上方的標題可以連結到另一個網站 
 
-#套件使用
+# 套件使用
 react 版本: 17.0.2 
 nodejs版本: 14.17.6
 axios版本: 0.26.0
 
 
-#環境架設
+# 環境架設
 cd.....stack-over-flow
 npm start
 
